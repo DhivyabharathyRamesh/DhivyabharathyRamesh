@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/dhivya-bharathy">
     <img src="https://img.shields.io/badge/LinkedIn-Dhivya%20Bharathy-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
-  <a href="[https://leetcode.com/dhivyabharathy](https://leetcode.com/u/XqL4OsZI9f/)">
+  <a href="[https://leetcode.com/u/XqL4OsZI9f/]">
     <img src="https://img.shields.io/badge/LeetCode-DhivyabharathyRamesh-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" />
   </a>
 </div>
