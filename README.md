@@ -13,10 +13,10 @@
   <a href="mailto:bharathydhivya809@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-bharathydhivya809-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dhivya-bharathy">
+  <a href="https://www.linkedin.com/in/dhivya-bharathy-9b118530b">
     <img src="https://img.shields.io/badge/LinkedIn-Dhivya%20Bharathy-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
-  <a href="[https://leetcode.com/u/XqL4OsZI9f/]">
+  <a href="https://leetcode.com/u/XqL4OsZI9f/">
     <img src="https://img.shields.io/badge/LeetCode-DhivyabharathyRamesh-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" />
   </a>
 </div>
